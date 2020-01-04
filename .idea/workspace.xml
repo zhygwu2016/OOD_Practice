@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eb225178-fb56-4b7d-a8e4-6659118bb98c" name="Default Changelist" comment="" />
+    <list default="true" id="eb225178-fb56-4b7d-a8e4-6659118bb98c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ElevatorDesign/Elevator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ElevatorDesign/Elevator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ElevatorDesign/ElevatorSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ElevatorDesign/ElevatorSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SnakeGame/Snake.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SnakeGame/Snake.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +22,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -52,7 +58,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574724186141</updated>
-      <workItem from="1574724191000" duration="615000" />
+      <workItem from="1574724191000" duration="3790000" />
+      <workItem from="1576365525326" duration="40000" />
+      <workItem from="1577768415565" duration="227000" />
+      <workItem from="1577832894721" duration="14100000" />
     </task>
     <servers />
   </component>
@@ -64,7 +73,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

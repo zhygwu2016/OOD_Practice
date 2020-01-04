@@ -40,7 +40,12 @@ public class ElevatorSystem {
 
     public void handleRequest(final ExternalRequest request){
         for (Elevator elevator : elevators){
-            elevator.handleExternalRequest(request);
+            if(elevator.checkValid(request)){
+                elevator.handleExternalRequest(request);
+                return;
+            }
         }
+
+        System.out.print(ELEVATOR_SYSTEM_NAME + ": Failure on HandleRequest");
     }
 }
