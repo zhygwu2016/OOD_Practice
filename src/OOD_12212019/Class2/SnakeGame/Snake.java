@@ -1,10 +1,10 @@
-package SnakeGame;
+package Class2.SnakeGame;
 
 import java.util.*;
 
-import static SnakeGame.Constants.foodChar;
-import static SnakeGame.Constants.snakeChar;
-import static SnakeGame.Constants.wallChar;
+import static Class2.SnakeGame.Constants.foodChar;
+import static Class2.SnakeGame.Constants.snakeChar;
+import static Class2.SnakeGame.Constants.wallChar;
 
 /**
  * Created by FLK on 4/19/18.
@@ -96,7 +96,7 @@ public class Snake {
      * Simulate the movement --> pop the tail and offer the head
      */
     public boolean move(Direction direction){
-        //Coner case
+        //Conner case
         if (board == null) return false;
 
         //update the coordinate of the head

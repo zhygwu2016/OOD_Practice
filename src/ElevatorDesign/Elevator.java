@@ -12,7 +12,7 @@ import static ElevatorDesign.ElevatorSystem.MAX_FLOOR;
 /**
  * Created by FLK on 2019-04-06.
  */
-public class   Elevator {
+public class Elevator {
 
     //The id of the Elevator
     private final String id;

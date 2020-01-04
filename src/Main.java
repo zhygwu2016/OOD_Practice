@@ -13,7 +13,7 @@ public class Main {
         CrossSection crossSection = new CrossSection(CrossSectionType.FourWay.toString(),CrossSectionType.FourWay);
 
         for(int i = 0; i < 10; i++){
-            final CrossSections.Car car = new CrossSections.Car("Car" + i, i + System.currentTimeMillis());
+            final Car car = new Car("Car" + i, i + System.currentTimeMillis());
 
             final IRoad normalRoad = crossSection.getRoad(i % 4);
 
