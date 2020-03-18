@@ -2,39 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb225178-fb56-4b7d-a8e4-6659118bb98c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/MyHashMap/Bucket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyHashMap/Cell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyHashMap/MyMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ElevatorDesign/Elevator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ElevatorDesign/Elevator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ElevatorDesign/ElevatorSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ElevatorDesign/ElevatorSystem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SnakeGame/Snake.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SnakeGame/Snake.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1U832BTeG5IUXfpvM7OB82iflta" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -47,6 +50,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -62,6 +77,12 @@
       <workItem from="1576365525326" duration="40000" />
       <workItem from="1577768415565" duration="227000" />
       <workItem from="1577832894721" duration="14100000" />
+      <workItem from="1578185333016" duration="10617000" />
+      <workItem from="1579130704223" duration="328000" />
+      <workItem from="1580271677416" duration="5415000" />
+      <workItem from="1582257535365" duration="312000" />
+      <workItem from="1584562958836" duration="447000" />
+      <workItem from="1584564506622" duration="555000" />
     </task>
     <servers />
   </component>
@@ -80,5 +101,19 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580279714109">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1580279714109" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1578185386620">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1578185386620" />
+    <state x="397" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1578185334819">
+      <screen x="0" y="23" width="1440" height="799" />
+    </state>
+    <state x="397" y="255" key="com.intellij.ide.util.TipDialog/0.23.1440.799/1440.23.1920.1057@0.23.1440.799" timestamp="1578185334819" />
   </component>
 </project>
